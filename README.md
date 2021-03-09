@@ -1,3 +1,3 @@
-# terraform-network-aws hello
+# terraform-network-aws
 
 # Hello World
